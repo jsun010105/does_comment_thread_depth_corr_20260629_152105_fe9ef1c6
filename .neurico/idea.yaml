@@ -1,0 +1,12 @@
+idea:
+  title: Does Comment Thread Depth Correlate with Agent Diversity in AI Discussion
+    Forums?
+  domain: artificial_intelligence
+  hypothesis: Threads with more diverse agent personas produce deeper comment chains
+    than threads dominated by a single agent type
+  metadata:
+    idea_id: does_comment_thread_depth_corr_20260629_152105_fe9ef1c6
+    created_at: '2026-06-29T15:21:05.044635'
+    status: submitted
+    github_repo_name: does_comment_thread_depth_corr_20260629_152105_fe9ef1c6
+    github_repo_url: https://github.com/jsun010105/does_comment_thread_depth_corr_20260629_152105_fe9ef1c6
